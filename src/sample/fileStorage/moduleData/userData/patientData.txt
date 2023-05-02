@@ -1,0 +1,9 @@
+PATIENT~Nimal Livera~MALE~Unmarried~1996-06-10~0777123457~1201~Kelaniya~a+WZ8RDXf6Gt5GO1/l+9yA==~tXY9/+rKFhboYwcFIlGf4g==~A_NEGATIVE~Chicken
+PATIENT~Kamal Desilva~MALE~Married~1992-06-20~0777123458~1202~Borella~HAjot/wAPcE0SpJruxQBJQ==~w5d2usRtfy4EVBLRBZChag==~AB_NEGATIVE~None
+PATIENT~Namal Jayaweera~MALE~Unmarried~1999-10-22~0777123469~1204~Wellampitiya~w7rWKrmW3eYOOOFVwqy4dg==~BCZH3w+vmAyhpdXw/cun9g==~B_NEGATIVE~None
+PATIENT~Rathmali Silva~FEMALE~Married~1994-07-11~0777123479~1205~Dehiwala~qTHn46mTAAYe5lLNjiG7dA==~KWUzik7/ljys5cVf8fBNfA==~B_POSITIVE~Tomatoes
+PATIENT~Supuni Perera~FEMALE~Unmarried~1998-09-19~0777123489~1206~Kandana~vzFgGa86F26uOZ4h+VAC2g==~rWtf3IPxuaHeJegevvkACA==~O_NEGATIVE~None
+PATIENT~Supuni Perera~FEMALE~Unmarried~1998-09-19~0777123489~1206~Kandana~vzFgGa86F26uOZ4h+VAC2g==~rWtf3IPxuaHeJegevvkACA==~O_NEGATIVE~None
+PATIENT~Nipuni Janz~FEMALE~Married~1993-09-07~0777123479~1207~Mount Lavania~TXulHTyoziK9dBRyZ/6/MQ==~cbcupQ3UVrXeo1KQolWsVg==~O_POSITIVE~Milk
+PATIENT~Dilshan Perera~MALE~Unmarried~1999-09-22~0777123499~1208~Ja-ela~mlny/2F8T5ky3/nc6zm/mg==~Uhx5aAdiz+0NI4m+Ora08Q==~A_NEGATIVE~None
+PATIENT~a~MALE~Married~2021-01-06~0~0~0~ApCMks2p2uViNCVm7jSXnA==~ApCMks2p2uViNCVm7jSXnA==~A_POSITIVE~a

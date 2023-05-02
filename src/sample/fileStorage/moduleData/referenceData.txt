@@ -1,0 +1,13 @@
+29~Doctor Speciality~Cardiologist
+30~Doctor Speciality~Dermatologist
+31~Doctor Speciality~Gastroenterologist
+32~Complaint Types~experience related
+33~Complaint Types~medical officer related
+34~Complaint Types~medication related
+35~Doctor Speciality~Hematologist
+36~Doctor Speciality~Neurologist
+37~Doctor Speciality~Pediatrician
+38~Doctor Speciality~Physiatrist
+35~Complaint Types~staff related
+36~Doctor Speciality~Speciality 1
+37~Complaint Types~new

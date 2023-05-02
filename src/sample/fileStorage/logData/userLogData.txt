@@ -1,0 +1,86 @@
+2021-01-06~01:37:54.725133900~ADMIN~admin~ADMIN~k/0bdE3XsZMUHNEryPnfow==~Admin Record deletedBy adminuserRoll : ADMIN
+2021-01-06~01:39:05.130404500~ADMIN~admin~ADMIN~k/0bdE3XsZMUHNEryPnfow==~Admin Record AddedBy adminuserRoll : ADMIN
+2021-01-06~01:41:52.283875100~ADMIN~admin~ADMIN~k/0bdE3XsZMUHNEryPnfow==~Admin Record UpdatedBy adminuserRoll : ADMIN
+2021-01-06~01:44:02.378612800~ADMIN~admin~ADMIN~k/0bdE3XsZMUHNEryPnfow==~Admin Record UpdatedBy adminuserRoll : ADMIN
+2021-01-06~01:46:15.865492200~ADMIN~admin~PATIENT~anne_perera~Patient Record UpdatedBy adminuserRoll : ADMIN
+2021-01-08~20:12:54.832504~ADMIN~admin~RECEPTIONIST~amanda~Receptionist Record UpdatedBy adminuserRoll : ADMIN
+2021-01-08~20:18:34.717498800~ADMIN~admin~RECEPTIONIST~amanda~Receptionist Record UpdatedBy adminuserRoll : ADMIN
+2021-01-08~20:20:04.777225400~ADMIN~admin~RECEPTIONIST~amanda~Receptionist Record deletedBy adminuserRoll : ADMIN
+2021-01-08~20:24:51.687137500~ADMIN~admin~RECEPTIONIST~aaaa~Receptionist Record AddedBy adminuserRoll : ADMIN
+2021-01-08~20:25:29.481689600~ADMIN~admin~RECEPTIONIST~aaaa~Receptionist Record UpdatedBy adminuserRoll : ADMIN
+2021-01-12~19:12:16.654575400~ADMIN~admin~PATIENT~anne_perera~Patient Record UpdatedBy adminuserRoll : ADMIN
+2021-01-12~21:51:07.009607900~ADMIN~admin~MEDICALOFFICER~11~MedicalOfficer record Added By adminuserRoll : ADMIN
+2021-01-12~21:51:13.611187600~ADMIN~admin~MEDICALOFFICER~11~MedicalOfficer record Added By adminuserRoll : ADMIN
+2021-01-15~11:10:40.073575300~ADMIN~admin~MEDICALOFFICER~55~MedicalOfficer record Added By adminuserRoll : ADMIN
+2021-01-15~11:21:28.285107~ADMIN~admin~MEDICALOFFICER~55~MedicalOfficer record Added By adminuserRoll : ADMIN
+2021-01-15~11:40:49.022865100~ADMIN~admin~MEDICALOFFICER~33~MedicalOfficer record Added By adminuserRoll : ADMIN
+2021-01-15~11:41:24.997229600~ADMIN~admin~MEDICALOFFICER~33~MedicalOfficer record Added By adminuserRoll : ADMIN
+2021-01-15~11:41:30.170840200~ADMIN~admin~MEDICALOFFICER~33~MedicalOfficer record Added By adminuserRoll : ADMIN
+2021-01-15~11:46:08.620786500~ADMIN~admin~MEDICALOFFICER~11~MedicalOfficer Record deletedBy adminuserRoll : ADMIN
+2021-01-15~11:46:19.724395500~ADMIN~admin~MEDICALOFFICER~55~MedicalOfficer Record deletedBy adminuserRoll : ADMIN
+2021-01-15~11:46:44.174354900~ADMIN~admin~MEDICALOFFICER~33~MedicalOfficer Record deletedBy adminuserRoll : ADMIN
+2021-01-15~11:51:43.798573600~ADMIN~admin~MEDICALOFFICER~55~MedicalOfficer record Added By adminuserRoll : ADMIN
+2021-01-15~11:52:24.939679600~ADMIN~admin~MEDICALOFFICER~5555~MedicalOfficer record Added By adminuserRoll : ADMIN
+2021-01-15~12:12:44.034652400~ADMIN~admin~MEDICALOFFICER~heshan_jayamaha~MedicalOfficer Record UpdatedBy adminuserRoll : ADMIN
+2021-01-16~19:55:47.300549100~ADMIN~admin~ADMIN~0~Admin Record AddedBy adminuserRoll : ADMIN
+2021-01-17~12:06:23.345668700~ADMIN~0~MEDICALOFFICER~555~MedicalOfficer record Added By 0userRoll : ADMIN
+2021-01-17~12:08:16.462980600~ADMIN~0~MEDICALOFFICER~heshan_jayamaha~MedicalOfficer Record UpdatedBy 0userRoll : ADMIN
+2021-01-20~09:11:37.977644800~ADMIN~0~PATIENT~2~Patient Record AddedBy 0userRoll : ADMIN
+2021-01-20~09:14:23.534312300~ADMIN~0~PATIENT~3~Patient Record AddedBy 0userRoll : ADMIN
+2021-01-20~09:14:29.822414100~ADMIN~0~PATIENT~3~Patient Record AddedBy 0userRoll : ADMIN
+2021-01-20~09:17:28.877965900~ADMIN~0~PATIENT~1~Patient Record AddedBy 0userRoll : ADMIN
+2021-01-20~09:17:46.181122900~ADMIN~0~PATIENT~1~Patient Record AddedBy 0userRoll : ADMIN
+2021-01-20~09:18:07.734320500~ADMIN~0~PATIENT~3~Patient Record deletedBy 0userRoll : ADMIN
+2021-01-20~09:19:38.749757400~ADMIN~0~PATIENT~1~Patient Record deletedBy 0userRoll : ADMIN
+2021-01-20~09:23:01.276377300~ADMIN~0~PATIENT~1~Patient Record AddedBy 0userRoll : ADMIN
+2021-01-20~09:35:52.907841~ADMIN~0~PATIENT~1~Patient Record deletedBy 0userRoll : ADMIN
+2021-01-20~09:40:50.267205400~ADMIN~0~PATIENT~1~Patient Record deletedBy 0userRoll : ADMIN
+2021-01-20~09:50:43.273412500~ADMIN~0~PATIENT~1~Patient Record AddedBy 0userRoll : ADMIN
+2021-01-20~09:51:33.473631800~ADMIN~0~PATIENT~2~Patient Record AddedBy 0userRoll : ADMIN
+2021-01-20~09:52:20.441819500~ADMIN~0~PATIENT~3~Patient Record AddedBy 0userRoll : ADMIN
+2021-01-20~09:52:51.937708700~ADMIN~0~PATIENT~4~Patient Record AddedBy 0userRoll : ADMIN
+2021-01-20~09:55:26.657855600~ADMIN~0~PATIENT~2~Patient Record deletedBy 0userRoll : ADMIN
+2021-01-20~09:55:37.585765900~ADMIN~0~PATIENT~1~Patient Record deletedBy 0userRoll : ADMIN
+2021-01-20~13:06:01.865382~ADMIN~0~ADMIN~1~Admin Record AddedBy 0userRoll : ADMIN
+2021-01-20~13:07:17.882478200~ADMIN~0~ADMIN~1~Admin Record AddedBy 0userRoll : ADMIN
+2021-01-20~13:07:26.996434700~ADMIN~0~ADMIN~1~Admin Record deletedBy 0userRoll : ADMIN
+2021-01-21~11:31:08.172698600~ADMIN~0~PATIENT~anne_perera~Patient Record deletedBy 0userRoll : ADMIN
+2021-01-21~11:42:33.301670600~ADMIN~0~PATIENT~3~Patient Record deletedBy 0userRoll : ADMIN
+2021-01-21~11:43:04.263809600~ADMIN~0~PATIENT~gotabaya~Patient Record UpdatedBy 0userRoll : ADMIN
+2021-01-21~11:44:29.761191800~ADMIN~0~PATIENT~gotabaya~Patient Record deletedBy 0userRoll : ADMIN
+2021-01-21~12:15:18.510396700~ADMIN~0~RECEPTIONIST~aaaa~Receptionist Record deletedBy 0userRoll : ADMIN
+2021-01-21~12:15:49.184152200~ADMIN~0~RECEPTIONIST~0~Receptionist Record AddedBy 0userRoll : ADMIN
+2021-01-21~12:16:53.185968400~ADMIN~0~MEDICALOFFICER~0~MedicalOfficer record Added By 0userRoll : ADMIN
+2021-01-21~12:34:57.039417~ADMIN~0~MEDICALOFFICER~55~MedicalOfficer Record deletedBy 0userRoll : ADMIN
+2021-01-21~12:35:05.127927600~ADMIN~0~MEDICALOFFICER~5555~MedicalOfficer Record deletedBy 0userRoll : ADMIN
+2021-01-21~12:35:16.468296~ADMIN~0~MEDICALOFFICER~0~MedicalOfficer Record UpdatedBy 0userRoll : ADMIN
+2021-01-21~12:46:53.462758~ADMIN~0~MEDICALOFFICER~0~MedicalOfficer Record deletedBy 0userRoll : ADMIN
+2021-01-21~12:47:36.510912500~ADMIN~0~MEDICALOFFICER~0~MedicalOfficer record Added By 0userRoll : ADMIN
+2021-01-21~12:50:30.286225800~ADMIN~0~MEDICALOFFICER~1~MedicalOfficer record Added By 0userRoll : ADMIN
+2021-01-21~13:07:32.398828700~ADMIN~admin~ADMIN~0~Admin Record deletedBy adminuserRoll : ADMIN
+2021-01-21~13:09:47.252422400~ADMIN~admin~ADMIN~0~Admin Record AddedBy adminuserRoll : ADMIN
+2021-01-21~13:10:32.312180300~ADMIN~admin~ADMIN~0~Admin Record UpdatedBy adminuserRoll : ADMIN
+2021-01-21~21:10:38.600059600~ADMIN~0~ADMIN~0~Admin Record UpdatedBy 0userRoll : ADMIN
+2021-01-22~09:45:49.441561300~ADMIN~0~ADMIN~admin~Admin Record UpdatedBy 0userRoll : ADMIN
+2021-01-22~09:48:39.579535100~ADMIN~0~PATIENT~0~Patient Record AddedBy 0userRoll : ADMIN
+2021-01-22~09:49:14.298732100~ADMIN~0~PATIENT~4~Patient Record deletedBy 0userRoll : ADMIN
+2021-01-22~09:52:36.401254300~ADMIN~0~RECEPTIONIST~0~Receptionist Record UpdatedBy 0userRoll : ADMIN
+2021-01-22~09:53:18.437731600~ADMIN~0~MEDICALOFFICER~0~MedicalOfficer Record UpdatedBy 0userRoll : ADMIN
+2021-01-25~16:10:09.947501900~ADMIN~0~PATIENT~supuni_perera~Patient Record UpdatedBy 0userRoll : ADMIN
+2021-01-25~16:26:37.862868300~ADMIN~0~RECEPTIONIST~0~Receptionist Record UpdatedBy 0userRoll : ADMIN
+2021-01-25~16:30:20.639708500~ADMIN~0~RECEPTIONIST~reception~Receptionist Record AddedBy 0userRoll : ADMIN
+2021-01-25~16:30:26.559161200~ADMIN~0~RECEPTIONIST~0~Receptionist Record deletedBy 0userRoll : ADMIN
+2021-01-25~16:32:19.674840600~ADMIN~0~RECEPTIONIST~reception~Receptionist Record AddedBy 0userRoll : ADMIN
+2021-01-25~16:32:38.424978400~ADMIN~0~RECEPTIONIST~reception~Receptionist Record UpdatedBy 0userRoll : ADMIN
+2021-01-27~12:17:02.745145200~ADMIN~0~ADMIN~0~Admin Record UpdatedBy 0userRoll : ADMIN
+2021-01-27~12:19:42.255844800~ADMIN~0~ADMIN~0~Admin Record UpdatedBy 0userRoll : ADMIN
+2021-01-27~12:23:36.820927900~ADMIN~0~ADMIN~0~Admin Record UpdatedBy 0userRoll : ADMIN
+2021-01-27~12:24:58.716652300~ADMIN~0~ADMIN~0~Admin Record UpdatedBy 0userRoll : ADMIN
+2021-06-29~22:32:19.044450800~ADMIN~0~ADMIN~0~Admin Record UpdatedBy 0userRoll : ADMIN
+2021-06-30~11:28:41.761890300~ADMIN~0~MEDICALOFFICER~nawariyan~MedicalOfficer record Added By 0userRoll : ADMIN
+2021-06-30~11:34:49.745386~ADMIN~0~ADMIN~0~Admin Record UpdatedBy 0userRoll : ADMIN
+2021-06-30~12:22:22.069556200~ADMIN~0~MEDICALOFFICER~Bhagya_desilva~MedicalOfficer Record UpdatedBy 0userRoll : ADMIN
+2021-06-30~12:29:21.846085500~ADMIN~0~ADMIN~0~Admin Record UpdatedBy 0userRoll : ADMIN
+2021-06-30~12:30:18.601382200~ADMIN~0~ADMIN~0~Admin Record UpdatedBy 0userRoll : ADMIN
+2021-06-30~13:56:24.996322~RECEPTIONIST~reception~RECEPTIONIST~0~Receptionist Record UpdatedBy receptionuserRoll : RECEPTIONIST
+2021-06-30~13:58:44.208749200~ADMIN~0~RECEPTIONIST~0~Receptionist Record UpdatedBy 0userRoll : ADMIN

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane prefHeight="500.0" prefWidth="900.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.controller.MainLoginController">
+   <children>
+      <Label layoutX="284.0" layoutY="51.0" text="Hospital Managment System">
+         <font>
+            <Font size="36.0" />
+         </font>
+      </Label>
+      <ImageView fx:id="mainLogin_adminView" fitHeight="135.0" fitWidth="146.0" layoutX="149.0" layoutY="173.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../assets/icons/icons8-admin-settings-male-96.png" />
+         </image>
+      </ImageView>
+      <ImageView fx:id="mainLogin_receptionView" fitHeight="135.0" fitWidth="146.0" layoutX="538.0" layoutY="168.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../assets/icons/icons8-front-desk-96.png" />
+         </image>
+      </ImageView>
+      <ImageView fx:id="mainLogin_medicalOfficer" fitHeight="135.0" fitWidth="146.0" layoutX="341.0" layoutY="173.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../assets/icons/icons8-stethoscope-128.png" />
+         </image>
+      </ImageView>
+      <ImageView fx:id="mainLogin_patientLogin" fitHeight="135.0" fitWidth="146.0" layoutX="711.0" layoutY="168.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../assets/icons/icons8-person-128.png" />
+         </image>
+      </ImageView>
+      <Label layoutX="196.0" layoutY="322.0" text="Admin">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </Label>
+      <Label layoutX="361.0" layoutY="322.0" text="Medical Officer">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </Label>
+      <Label layoutX="558.0" layoutY="317.0" text="Receptionist">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </Label>
+      <Label layoutX="757.0" layoutY="317.0" text="Patient">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </Label>
+      <AnchorPane layoutX="45.0" layoutY="-1.0" prefHeight="506.0" prefWidth="66.0" style="-fx-background-color: #0d47a1;" />
+      <AnchorPane prefHeight="505.0" prefWidth="66.0" style="-fx-background-color: #002171;" />
+      <Label fx:id="mainLogin_DateTime" alignment="CENTER_RIGHT" layoutX="593.0" layoutY="14.0" prefHeight="30.0" prefWidth="295.0" />
+   </children>
+</AnchorPane>

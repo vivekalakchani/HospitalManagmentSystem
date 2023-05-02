@@ -1,0 +1,22 @@
+106~2020-12-30~medical officer related~null~0751234568~Very rude doctor~aa~Action Taken
+106~2020-12-30~medical officer related~null~0751234568~Very rude doctor~null~Action Taken
+106~2020-12-30~medical officer related~null~0751234568~Very rude doctor~aa~Action Taken
+106~2020-12-30~medical officer related~Sirisena~0751234568~Very rude doctor~null~PENDING
+107~2020-12-30~experience related~Nimal~0751234567~Not satisfied~null~PENDING
+108~2020-12-30~medication related~Kamala~0751234569~Wrong medication given~Please take the necessary actions.~PENDING
+109~2020-12-30~staff related~Sanduni~0751234579~Not satisfied with the staff members~Please take the necessary actions.~PENDING
+110~2020-12-30~medication related~Sirimal~0751234589~Non-relevant medication given~null~PENDING
+111~2021-01-08~null~~~~~PENDING
+112~2020-12-30~null~null~null~null~null~PENDING
+113~2021-01-09~experience related~null~1111111~aaaaaa~aa~PENDING
+113~2021-01-09~experience related~null~1111111~aaaaaa~aaaaaaaaaaa~PENDINGgg
+113~2021-01-09~experience related~null~1111111~aaaaaa~aa~PENDING
+113~2021-01-09~medical officer related~null~1111111~aaaaaa~aaaaaaaaaaa~PENDING
+113~2021-01-09~experience related~null~1111111~aaaaaa~aa~PENDING
+113~2021-01-09~experience related~null~1111111~aaaaaa~aaaaaaaaaaa~PENDINGgg
+113~2021-01-09~experience related~null~1111111~aaaaaa~aa~PENDING
+113~2021-01-09~experience related~aaa~1111111~aaaaaa~aaaaaaaaaaa~PENDING
+114~2021-01-19~experience related~kk~5~k~k~PENDING
+115~2021-01-19~experience related~j~2~g~s~PENDING
+116~2021-06-30~new~null~1~a~a~action taken update
+116~2021-06-30~new~null~1~a~a~action taken update

@@ -1,0 +1,6 @@
+1~2020-12-22~130013001300~Lakmali~Visit a patient~0711234567~FEMALE~000~23:23~23:38~true~true
+2~2020-12-30~1301~Nimali~Visit a patient~0711234568~FEMALE~~23:24~null~true~false
+3~2020-12-26~1302~Sandali~Visit a patient~0711234569~FEMALE~~23:26~null~true~false
+4~2020-12-20~1303~Sandun~Visit a patient~0711234579~MALE~~23:26~null~true~false
+5~2020-12-11~1304~Nimal~Visit a patient~0711234589~MALE~~23:27~23:39~true~true
+6~2020-12-28~1305~Premali~Visit a patient~0711234599~FEMALE~~23:28~null~true~false
